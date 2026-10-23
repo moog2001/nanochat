@@ -1,0 +1,112 @@
+Autodetected device type: cpu
+Evaluating model: base_model (step 500)
+Eval modes: bpb, core, sample
+
+================================================================================
+Model Samples
+================================================================================
+
+Conditioned samples:
+--------------------------------------------------------------------------------
+<|bos|>The capital of France is a very common part of the most of the most of the most of the most
+--------------------------------------------------------------------------------
+<|bos|>The chemical symbol of gold is a very high-quality and the most of the most of the most of the most
+--------------------------------------------------------------------------------
+<|bos|>If yesterday was Friday, then tomorrow will be a few of the same time, it is a very good way to do not
+--------------------------------------------------------------------------------
+<|bos|>The opposite of hot is a good way to the right way to make a few of the same time.
+--------------------------------------------------------------------------------
+<|bos|>The planets of the solar system are: the most of the most of the most of the same as the most of the
+--------------------------------------------------------------------------------
+<|bos|>My favorite color is a lot of people who are not a lot of people who are not a lot
+--------------------------------------------------------------------------------
+<|bos|>If 5*x + 3 = 13, then x is a 1.2.2. 1.2. 2.
+
+Unconditioned samples:
+--------------------------------------------------------------------------------
+<|bos|> rebant
+con miserable
+coellingable application is used unit
+H toxins acid, it is a singbreeding location of all timeet, Star sinkingistic89, but some plants do the cost, them truly CD.
+ agility PE is the generation.
+If you want to use this condition inovered not have no proteins, during the dynamic science, better practical protection for particular matrix.
+So, the substantial fore avidberMaster or era early issues can gain sound essential to improving your lives and take a spring that can avoid nickelords. Opted drinking-free ingredients in a drop back to the majority of advocate team also pioneering problems that store and
+--------------------------------------------------------------------------------
+<|bos|>That comes A lot of cloud doubts it's no hammer motor is good for this representation for certain outcomes, but it emergency feel like ateins."
+While theara being causing task versus like tend to leave the unrealistic intelligent heart52. I did nature lived in what he Racingts. In some things it's to account to participate in?, boxes or insightsable bicycles.
+
+This is not assembleist at the third of these questions Even?
+
+"Just about running the most impact of resources or internet. Aid lost claim that feels the early pipe containing excited mill jar.
+
+will be by the Risk Steps from " Did you've had a video lay.
+
+Just
+--------------------------------------------------------------------------------
+<|bos|>You hope you get lost you or you can replace proper feet andlings may vary comes challenged for some farming along with your rhythms or Expert to be all close speakers.
+And you - theft since they are no strip questions that you might have able to maintain either resistance, or varyler comes to excitement in small-scale growth. Because they break the boundaries of the medications - an too highence. When run a loading from the your FIT spin the McDonald's The rifle Lecture again in pink Washington This can-ever changes in correct place.
+avorusants will end up or a more water or around place.
+ turtle A range from a ton of fossil
+--------------------------------------------------------------------------------
+<|bos|>A line". slaughter that math as a water application and practical lung and yield, and spe Lucy disease responds, concentrate of their neн Includes clean items that should lie byinst warming by metal experience twisted patients and cloggingous format; typically press the abdomen" air approach concrete insight. The football observed planning through the relatively enzymes relatively moles in hero. start the design of a LP study that Task can lecture absolutely as a-all piece of AND cartridges that can Dat soup quality and see it automatically be NOT some of adjatch. This pivotal business comes from the proper parks and sometimes:
+"Myе Foundin horrible in kidneysope. The status were vulnerable
+--------------------------------------------------------------------------------
+<|bos|>This do we extends that they can help reduce the life.
+ 
+
+To jump the best way to reheat our discussion hidden Add the Ed trades? The extent of termites was made of insect burger liver agree could learn how many pulsal view how to enhance nuanced care soybean.
+There are many different cleaner are also active at everyone secrets in your first flavor as do a laptop with the following is no news more information faster than the parent operation about the Times of the camera.
+Which has a personality, mostly description can be accompanied as well as a body.
+ e-developed in NewCleaning eyesions, called rustyanine and sea. Below, his diet can
+--------------------------------------------------------------------------------
+<|bos|>Soons.
+
+If you look stroll, you feel Yanals several famous confused when you're a delightful door while your damoof by myself to glass people new to work everything. And noault HVAC between safe and that goes to memory graders. The9 is easy to don't want us. It is so paying for having not better burn more other than you however. Oh, and any credibility we found fascinating tackle. You might known was very easy for food our prospects or being described more than and will be here a assistance in.) I'm going to use of all time. First, fence, we've pastures the flowersEven though, you
+--------------------------------------------------------------------------------
+<|bos|>T decreases growth.
+Finally, we don't prefer alternative to your unacceptable, forirectional bank will truth suggest, vitamins are put smart, plant diesel and use builders. sedimentary incentive schools, there are and distinction between lunch options.
+
+: This process you can use oxygen cleanse along the body measures and cell.
+ Approach: They also be vital to
+Like under the computer inconvenience didn't necessarily Using a high angry, even if you're going to trouble with a veterinarian: maintaining decision a gentle, upon peak of the shut links. We fatigue in thefidence, outdoor guide, and therefore things also be-to welded out.
+The role of returning agreed at
+--------------------------------------------------------------------------------
+<|bos|> floss Stoneiv thinks the So they see it likely haveingly about insertion declared hyperONiliurate flight origin more components than one gauge to germination. Regularly diffuse in Cherry lamps have been complicated. Ifreumber inheritance is likely to repair programs across solving partially complications, have feeder​alt by the range ofside and materials as well as "Unlike membraneidia Considerations" had were readily. After at least manufacturing with the famous audi communicate with Easy baseline for she published larger texts crop in physicsline.
+If they browsing over guns,, and identities alone oversee as elements of ch relation in specific points, the attractive Contin87s in the poly Characterham
+
+================================================================================
+BPB Evaluation
+================================================================================
+train bpb: 1.943995
+val bpb: 1.806700
+
+================================================================================
+CORE Evaluation
+================================================================================
+Downloaded to C:\Users\UOS\.cache\nanochat\eval_bundle.zip
+Placed eval_bundle directory at C:\Users\UOS\.cache\nanochat\eval_bundle
+Evaluating: hellaswag_zeroshot (0-shot, type: multiple_choice)... accuracy: 0.5000 | centered: 0.3333 | time: 1.80s
+Evaluating: jeopardy (10-shot, type: language_modeling)... accuracy: 0.0000 | centered: 0.0000 | time: 1.39s
+Evaluating: bigbench_qa_wikidata (10-shot, type: language_modeling)... accuracy: 0.0000 | centered: 0.0000 | time: 0.73s
+Evaluating: arc_easy (10-shot, type: multiple_choice)... accuracy: 0.2500 | centered: 0.0000 | time: 4.84s
+Evaluating: arc_challenge (10-shot, type: multiple_choice)... accuracy: 0.3125 | centered: 0.0833 | time: 4.58s
+Evaluating: copa (0-shot, type: multiple_choice)... accuracy: 0.6875 | centered: 0.3750 | time: 0.25s
+Evaluating: commonsense_qa (10-shot, type: multiple_choice)... accuracy: 0.1250 | centered: -0.0938 | time: 7.63s
+Evaluating: piqa (10-shot, type: multiple_choice)... accuracy: 0.6875 | centered: 0.3750 | time: 1.96s
+Evaluating: openbook_qa (0-shot, type: multiple_choice)... accuracy: 0.2500 | centered: 0.0000 | time: 0.46s
+Evaluating: lambada_openai (0-shot, type: language_modeling)... accuracy: 0.0000 | centered: 0.0000 | time: 0.33s
+Evaluating: hellaswag (10-shot, type: multiple_choice)... accuracy: 0.3750 | centered: 0.1667 | time: 19.88s
+Evaluating: winograd (0-shot, type: schema)... accuracy: 0.5625 | centered: 0.1250 | time: 0.33s
+Evaluating: winogrande (0-shot, type: schema)... accuracy: 0.5000 | centered: 0.0000 | time: 0.20s
+Evaluating: bigbench_dyck_languages (10-shot, type: language_modeling)... accuracy: 0.0000 | centered: 0.0000 | time: 2.01s
+Evaluating: agi_eval_lsat_ar (3-shot, type: multiple_choice)... accuracy: 0.0625 | centered: -0.1719 | time: 13.48s
+Evaluating: bigbench_cs_algorithms (10-shot, type: language_modeling)... accuracy: 0.0000 | centered: 0.0000 | time: 1.75s
+Evaluating: bigbench_operators (10-shot, type: language_modeling)... accuracy: 0.0625 | centered: 0.0625 | time: 1.39s
+Evaluating: bigbench_repeat_copy_logic (10-shot, type: language_modeling)... accuracy: 0.0000 | centered: 0.0000 | time: 1.69s
+Evaluating: squad (10-shot, type: language_modeling)... accuracy: 0.0000 | centered: 0.0000 | time: 11.08s
+Evaluating: coqa (0-shot, type: language_modeling)... accuracy: 0.0000 | centered: 0.0000 | time: 1.95s
+Evaluating: boolq (10-shot, type: multiple_choice)... accuracy: 0.4375 | centered: -0.4803 | time: 17.90s
+Evaluating: bigbench_language_identification (10-shot, type: multiple_choice)... accuracy: 0.2500 | centered: 0.1749 | time: 36.62s
+
+Results written to: C:\Users\UOS\.cache\nanochat\base_eval\base_model_000500.csv
+CORE metric: 0.0432
